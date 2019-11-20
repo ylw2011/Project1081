@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: b5ba97a1b7fa86f4faf24500c5c10a21
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01_chin
+    100004: Bip01_Head
+    100006: Bip01_HeadNub
+    100008: Bip01_L_Calf
+    100010: Bip01_L_Clavicle
+    100012: Bip01_L_Ear
+    100014: Bip01_L_Ear_Nub
+    100016: Bip01_L_Finger0
+    100018: Bip01_L_Finger01
+    100020: Bip01_L_Finger0Nub
+    100022: Bip01_L_Foot
+    100024: Bip01_L_Forearm
+    100026: Bip01_L_Hand
+    100028: Bip01_L_HorseLink
+    100030: Bip01_L_Thigh
+    100032: Bip01_L_Toe0
+    100034: Bip01_L_Toe0Nub
+    100036: Bip01_L_UpperArm
+    100038: Bip01_Neck
+    100040: Bip01_Neck1
+    100042: Bip01_Neck2
+    100044: Bip01_Neck3
+    100046: Bip01_Pelvis
+    100048: Bip01_R_Calf
+    100050: Bip01_R_Clavicle
+    100052: Bip01_R_Ear
+    100054: Bip01_R_Ear_Nub
+    100056: Bip01_R_Finger0
+    100058: Bip01_R_Finger01
+    100060: Bip01_R_Finger0Nub
+    100062: Bip01_R_Foot
+    100064: Bip01_R_Forearm
+    100066: Bip01_R_Hand
+    100068: Bip01_R_HorseLink
+    100070: Bip01_R_Thigh
+    100072: Bip01_R_Toe0
+    100074: Bip01_R_Toe0Nub
+    100076: Bip01_R_UpperArm
+    100078: Bip01_Spine
+    100080: Bip01_Spine1
+    100082: Bip01_Spine2
+    100084: Bip01_Spine3
+    100086: Bip01_Tail
+    100088: Bip01_Tail0
+    100090: Bip01_Tail1
+    100092: Bip01_Tail2
+    100094: Bip01_Tail3
+    100096: Bip01_Tail4
+    100098: Bip01_Tail5
+    100100: BoneRoot
+    100102: Horse
+    100104: //RootNode
+    100106: Tail
+    400000: Bip01
+    400002: Bip01_chin
+    400004: Bip01_Head
+    400006: Bip01_HeadNub
+    400008: Bip01_L_Calf
+    400010: Bip01_L_Clavicle
+    400012: Bip01_L_Ear
+    400014: Bip01_L_Ear_Nub
+    400016: Bip01_L_Finger0
+    400018: Bip01_L_Finger01
+    400020: Bip01_L_Finger0Nub
+    400022: Bip01_L_Foot
+    400024: Bip01_L_Forearm
+    400026: Bip01_L_Hand
+    400028: Bip01_L_HorseLink
+    400030: Bip01_L_Thigh
+    400032: Bip01_L_Toe0
+    400034: Bip01_L_Toe0Nub
+    400036: Bip01_L_UpperArm
+    400038: Bip01_Neck
+    400040: Bip01_Neck1
+    400042: Bip01_Neck2
+    400044: Bip01_Neck3
+    400046: Bip01_Pelvis
+    400048: Bip01_R_Calf
+    400050: Bip01_R_Clavicle
+    400052: Bip01_R_Ear
+    400054: Bip01_R_Ear_Nub
+    400056: Bip01_R_Finger0
+    400058: Bip01_R_Finger01
+    400060: Bip01_R_Finger0Nub
+    400062: Bip01_R_Foot
+    400064: Bip01_R_Forearm
+    400066: Bip01_R_Hand
+    400068: Bip01_R_HorseLink
+    400070: Bip01_R_Thigh
+    400072: Bip01_R_Toe0
+    400074: Bip01_R_Toe0Nub
+    400076: Bip01_R_UpperArm
+    400078: Bip01_Spine
+    400080: Bip01_Spine1
+    400082: Bip01_Spine2
+    400084: Bip01_Spine3
+    400086: Bip01_Tail
+    400088: Bip01_Tail0
+    400090: Bip01_Tail1
+    400092: Bip01_Tail2
+    400094: Bip01_Tail3
+    400096: Bip01_Tail4
+    400098: Bip01_Tail5
+    400100: BoneRoot
+    400102: Horse
+    400104: //RootNode
+    400106: Tail
+    2100000: Horse_Skin
+    2100002: Tail
+    4300000: Horse
+    4300002: Tail
+    7400000: Arabian_Horse_A_03_TempMotion
+    9500000: //RootNode
+    13700000: Horse
+    13700002: Tail
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Skin
+    second: {fileID: 2100000, guid: b0dab66debd16b74ba01b82ee23eaf00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail
+    second: {fileID: 2100000, guid: 11f698a5ab078e14c850fedd221d288e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Arabian_Horse_A_03_TempMotion
+      takeName: Arabian_Horse_A_03_TempMotion
+      firstFrame: 0
+      lastFrame: 93
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

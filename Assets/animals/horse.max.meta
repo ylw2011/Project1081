@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 96e2143413dccd14385d92eab8054dc7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Horse
+    100002: //RootNode
+    100004: HorseFrontRLegFrontHoof
+    100006: HorseFrontRLegHumerus
+    100008: HorseFrontRLegMetacarpus
+    100010: HorseFrontRLegPhalangesManus
+    100012: HorseFrontRLegPlatform
+    100014: HorseFrontRLegRadius
+    100016: HorseFrontRLegScapula
+    100018: HorseJaw
+    100020: HorseLFemur
+    100022: HorseLFrontHoof
+    100024: HorseLHumerus
+    100026: HorseLLargeCannon
+    100028: HorseLMetacarpus
+    100030: HorseLPhalangesManus
+    100032: HorseLPhalanxPrima
+    100034: HorseLPlatform
+    100036: HorseLPlatform 1
+    100038: HorseLRadius
+    100040: HorseLRearHoof
+    100042: HorseLScapula
+    100044: HorseLTibia
+    100046: HorseNeck1
+    100048: HorseNeck2
+    100050: HorseNeck3
+    100052: HorseNeck4
+    100054: HorseNeck5
+    100056: HorseNeck6
+    100058: HorsePelvis
+    100060: HorseRFemur
+    100062: HorseRibcage
+    100064: HorseRLargeCannon
+    100066: HorseRPhalanxPrima
+    100068: HorseRPlatform
+    100070: HorseRRearHoof
+    100072: HorseRTibia
+    100074: HorseScull
+    100076: HorseSpine1
+    100078: HorseSpine2
+    100080: HorseSpine3
+    100082: HorseSpine4
+    100084: HorseSpine5
+    100086: HorseSpine6
+    100088: HorseTail1
+    100090: HorseTail2
+    100092: HorseTail3
+    100094: HorseTail4
+    100096: HorseTail5
+    100098: HorseTail6
+    100100: HorseTail7
+    100102: "\u7ACB\u65B9\u9AD4"
+    400000: Horse
+    400002: //RootNode
+    400004: HorseFrontRLegFrontHoof
+    400006: HorseFrontRLegHumerus
+    400008: HorseFrontRLegMetacarpus
+    400010: HorseFrontRLegPhalangesManus
+    400012: HorseFrontRLegPlatform
+    400014: HorseFrontRLegRadius
+    400016: HorseFrontRLegScapula
+    400018: HorseJaw
+    400020: HorseLFemur
+    400022: HorseLFrontHoof
+    400024: HorseLHumerus
+    400026: HorseLLargeCannon
+    400028: HorseLMetacarpus
+    400030: HorseLPhalangesManus
+    400032: HorseLPhalanxPrima
+    400034: HorseLPlatform
+    400036: HorseLPlatform 1
+    400038: HorseLRadius
+    400040: HorseLRearHoof
+    400042: HorseLScapula
+    400044: HorseLTibia
+    400046: HorseNeck1
+    400048: HorseNeck2
+    400050: HorseNeck3
+    400052: HorseNeck4
+    400054: HorseNeck5
+    400056: HorseNeck6
+    400058: HorsePelvis
+    400060: HorseRFemur
+    400062: HorseRibcage
+    400064: HorseRLargeCannon
+    400066: HorseRPhalanxPrima
+    400068: HorseRPlatform
+    400070: HorseRRearHoof
+    400072: HorseRTibia
+    400074: HorseScull
+    400076: HorseSpine1
+    400078: HorseSpine2
+    400080: HorseSpine3
+    400082: HorseSpine4
+    400084: HorseSpine5
+    400086: HorseSpine6
+    400088: HorseTail1
+    400090: HorseTail2
+    400092: HorseTail3
+    400094: HorseTail4
+    400096: HorseTail5
+    400098: HorseTail6
+    400100: HorseTail7
+    400102: "\u7ACB\u65B9\u9AD4"
+    2100000: 09 - Default
+    4300000: "\u7ACB\u65B9\u9AD4"
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: "\u7ACB\u65B9\u9AD4"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
